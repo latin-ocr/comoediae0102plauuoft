@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediae0102plauuoft_0419.png"; bbox 0 0 1511 2502; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 550 978 613">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 471 550 978 613">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 550 978 613; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 471 550 521 612; x_wconf 76' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 553 550 737 613; x_wconf 74' lang='lat' dir='ltr'><strong>mcc!</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 772 550 978 611; x_wconf 68' lang='lat' dir='ltr'>Phffll</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 765 1336 840">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 765 1336 840">
+     <span class='ocr_line' id='line_1_2' title="bbox 108 765 1336 840; baseline 0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 108 765 1336 840; x_wconf 78' lang='lat' dir='ltr'><strong>BAGCHIDES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 161 1216 1283 1272">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 161 1216 1283 1272">
+     <span class='ocr_line' id='line_1_3' title="bbox 161 1216 1283 1272; baseline 0.004 -15"><span class='ocrx_word' id='word_1_5' title='bbox 161 1216 401 1258; x_wconf 85' lang='lat' dir='ltr'><strong>GRAECA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 437 1216 885 1270; x_wconf 81' lang='lat' dir='ltr'><strong>[DISEXAPATON</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 918 1217 1283 1272; x_wconf 70' lang='lat' dir='ltr'><strong>MENANDRVJ,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
